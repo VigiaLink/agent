@@ -1,0 +1,14 @@
+{
+  "agent_id": "store_01",
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8890
+  },
+  "cameras": [
+    {
+      "id": "cam_entrance",
+      "name": "Entrance",
+      "rtsp": "rtsp://127.0.0.1:8554/test"
+    }
+  ]
+}
